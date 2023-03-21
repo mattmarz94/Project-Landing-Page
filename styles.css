@@ -125,7 +125,7 @@ ul{
     align-items: center;
     justify-content: center;
     flex: 0 1 300px;
-    padding: 100px;
+    padding: 200px;
 }
 
 
@@ -140,11 +140,16 @@ ul{
 .action .container {
     background-color: #1F2937;
     color: white;
-    display: flex;
+    
     max-width: 800px;
     margin: auto;
     padding: 36px;
     border-radius: 25px;
+}
+
+.action button {
+    padding: 6px 40px;
+    display: flex;
 }
 
 
